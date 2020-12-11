@@ -1,3 +1,3 @@
 # car-park-networking
 
-All right reserved. 
+All rights reserved. 
